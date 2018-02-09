@@ -4,6 +4,8 @@
 
 By default the port is expose on the port 8080. The port can ba change by modified the file application.properties
 
+For launch the app run this command in the directoty kubity-test
+
 ```
 mvn spring-boot:run
 ```
